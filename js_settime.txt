@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+function greet(){
+console.log('hell world');
+}
+setTimeout(greet,3000);
+console.log('this message is shown first');
+</script>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+<html>
+<body>
+<p id="swa"></p>
+<script>
+document.getElementById("swa").innerHTML="HELLO WORLD"
+</script>
+</body>
+</html>
